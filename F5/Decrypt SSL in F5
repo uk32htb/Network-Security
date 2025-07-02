@@ -1,0 +1,2 @@
+Decrypt with tcpdump --f5 ssl :- To decrypt the SSL packet on F5 
+https://community.f5.com/kb/technicalarticles/decrypting-tls-traffic-on-big-ip/280936
